@@ -40,3 +40,4 @@ public class LessonRegTests extends TestBaze{
 
     }
 }
+// test

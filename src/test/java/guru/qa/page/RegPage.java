@@ -31,6 +31,7 @@ public class RegPage {
             closeLargeModal= $("#closeLargeModal"),
             userEmailInput = $("#userEmail");
 
+
     public RegPage setFirstName(String value){
         firstNameInput.setValue(value);
         return this;
